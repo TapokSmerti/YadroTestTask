@@ -1,0 +1,17 @@
+2025-05-16 02:07:07,867 - INFO - Server logging initialized
+2025-05-16 02:07:07,867 - INFO - Server started on 0.0.0.0:5555
+2025-05-16 02:07:19,274 - INFO - Server logging initialized
+2025-05-16 02:07:19,274 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-16 02:07:19,280 - INFO - Server socket closed
+2025-05-16 02:07:23,484 - INFO - Server logging initialized
+2025-05-16 02:07:23,484 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-16 02:07:23,490 - INFO - Server socket closed
+2025-05-16 02:07:26,159 - INFO - Server logging initialized
+2025-05-16 02:07:26,160 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-16 02:07:26,167 - INFO - Server socket closed
+2025-05-16 02:07:28,196 - INFO - Server logging initialized
+2025-05-16 02:07:28,196 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-16 02:07:28,203 - INFO - Server socket closed
+2025-05-16 02:07:31,431 - INFO - Server logging initialized
+2025-05-16 02:07:31,433 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-16 02:07:31,437 - INFO - Server socket closed
